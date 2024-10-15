@@ -16,4 +16,4 @@ Este proyecto está diseñado para aprender y poner en práctica el uso de Docke
 
 ---
 
-**Autor**: [Tu Nombre](https://github.com/tu-usuario)
+**Autor**: [PAMBLO](https://www.linkedin.com/in/pablo-aixela-martin/)
