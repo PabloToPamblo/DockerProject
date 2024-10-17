@@ -16,4 +16,8 @@ This project is designed to learn and apply the use of Docker and Kubernetes in 
 
 ---
 
+## Download image
+
+docker pull pamblo/django-app:v1
+
 **Autor**: [PAMBLO][https://www.linkedin.com/in/pablo-aixela-martin/]
